@@ -1,0 +1,20 @@
+{
+    "d9cdddfdee20e79a137448fd2cfa13b8": {
+        "page_script_hash": "d9cdddfdee20e79a137448fd2cfa13b8",
+        "page_name": "login",
+        "icon": "",
+        "script_path": "D:\\Swayaan\\login_registration\\login.py"
+    },
+    "58e267475de0f7b0b0fb337df087bc70": {
+        "page_script_hash": "58e267475de0f7b0b0fb337df087bc70",
+        "page_name": "home",
+        "icon": "",
+        "script_path": "D:\\Swayaan\\login_registration\\pages\\home.py"
+    },
+    "7d860b600b92e7200bbfeb5eaa9649e7": {
+        "page_script_hash": "7d860b600b92e7200bbfeb5eaa9649e7",
+        "page_name": "signup",
+        "icon": "",
+        "script_path": "D:\\Swayaan\\login_registration\\pages\\signup.py"
+    }
+}
