@@ -131,6 +131,7 @@ if st.button("Login"):
 
 # Link to sign up page
 if st.button("Sign Up"):
+    show_all_pages()
     switch_page("signup")
 
 

@@ -175,6 +175,8 @@
 #         else:
 #             st.warning("No job description selected.")
 
+
+
 import streamlit as st
 import requests
 from pymongo import MongoClient
@@ -314,9 +316,12 @@ def submit_or_update():
     else:
         st.warning("Please enter a job description before submitting.")
 
+
+
 # Function to handle logging out
 def logout():
     st.session_state.logged_in = False
+    show_all_saved_pages()
     switch_page("login")
 
 # Sidebar
